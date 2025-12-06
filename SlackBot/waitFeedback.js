@@ -11,7 +11,7 @@ const axios = require('axios');
 
 // ibm-aotbot-dev
 const slackApp = new App({
-    signingSecret: "26cf70d0baf5a8401d1ec94bedadc9a5",
+    signingSecret: "xxxx",
     token: "xxxxx",
     socketMode: true,
     appToken: "xxxx"
