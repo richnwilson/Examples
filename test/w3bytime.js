@@ -1,0 +1,2 @@
+https://w3-unifiedprofile-api-production.dal1a.cirrus.ibm.com/v3/sync-by-date/profile-extended?limit=5&startDate=2024-02-15T01:00:00Z&endDate=2024-02-15T01:59:99Z
+https://w3-unifiedprofile-api-production.dal1a.cirrus.ibm.com/v3/sync-by-date/profile?limit=5&startDate=2024-02-15T01:00:00Z&endDate=2024-02-15T01:59:99Z

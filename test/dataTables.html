@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>    
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <style>
+    </style>
+    <script type="text/javascript">
+        const data = [
+                {
+                    "name": "Hiroyuki Tarusawa",
+                    "email": "hirot@jp.ibm.com",
+                    "badge": "Silver",
+                    "initiatives":10,
+                    "satInitiatives": 2,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Lydia Duijvestijn",
+                    "email": "lydia_duijvestijn@nl.ibm.com",
+                    "badge": "Silver",
+                    "initiatives":8,
+                    "satInitiatives": 2,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Hiroyuki Tarusawa",
+                    "email": "hirot@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":10,
+                    "satInitiatives": 2,
+                    "highlySatIntiatives": 3
+                },   
+                {
+                    "name": "Lydia Duijvestijn",
+                    "email": "lydia_duijvestijn@nl.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":8,
+                    "satInitiatives": 2,
+                    "highlySatIntiatives": 3
+                },                             
+                {
+                    "name": "William H. Chamberlin",
+                    "email": "whchamb@us.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "EDGAR ADOLFO ZAMORA DURAN",
+                    "email": "ezamora@cr.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "AMELIA LOURDES BALSAMO",
+                    "email": "abalsamo@ar.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Jeffrey Scheel",
+                    "email": "scheel@us.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Natsumi Kurashima",
+                    "email": "natsumik@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Natsumi Kurashima",
+                    "email": "natsumik@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Natsumi Kurashima",
+                    "email": "natsumik@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Natsumi Kurashima",
+                    "email": "natsumik@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                },
+                {
+                    "name": "Natsumi Kurashima",
+                    "email": "natsumik@jp.ibm.com",
+                    "badge": "Bronze",
+                    "initiatives":5,
+                    "satInitiatives": 1,
+                    "highlySatIntiatives": 3
+                }
+            ]
+    
+        $(document).ready( function () {
+         $('#table_id').DataTable({
+            initComplete: function () {
+                $(".buttons-excel").addClass('ds-width-auto ds-primary ds-button');
+                this.api().columns([2]).every( function () {
+                    var column = this;
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo( $(column.footer()).empty() )
+                        .on( 'change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex(
+                                $(this).val()
+                            );
+    
+                            column
+                                .search( val ? '^'+val+'$' : '', true, false )
+                                .draw();
+                        } );
+    
+                    column.data().unique().sort().each( function ( d, j ) {
+                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                        } );
+                    } );
+                }    ,         
+            data: data,
+            columns: [
+                { title: "Name", data: 'name' },
+                { title: "Email", data: 'email' },
+                { title: "Badge", data: 'badge' },
+                { title: "# of Initiatives", data: 'initiatives' },
+                { title: "# of Satisfied Inititives", data: 'satInitiatives' },
+                { title: "# of Highly Statisfied Initiatives", data: 'highlySatIntiatives' }                                
+            ],
+           dom: 'Bfrtip',
+           paging: true,
+           autoWidth: true,           
+           responsive: true,
+           columnDefs: [
+                { className: "dt-left", targets: [ 0, 1, 2 ,3 ,4,5 ] }
+                ],           
+           buttons: [ {
+               extend: 'excelHtml5',
+               text: 'Export ALL to Excel',
+               autoFilter: true,
+               filename: "AoT Leadership Badges - Jan 01 2019 - Jun 12 2019",
+               extension: ".xlsx",
+               exportOptions: {
+                modifier: {
+                page: 'all',
+                search: 'none'   }
+                },
+                customize: function ( xlsx ) {
+                    var sheet = xlsx.xl.worksheets['sheet1.xml'];
+                    $('c[r=A1] t', sheet).text( 'Aot Leadership Badges | Jan 1st 2019 - Jun 20th 2019' );                       
+                    $('row:first c', sheet).attr( 's', '51' );
+                    $('row[r=2] c', sheet).attr( 's', '51' );
+                    $('row[r=3] c', sheet).attr( 's', '22' );                 
+                },
+                messageTop: "[Bronze: min 3 completed with 1 Highly Satisfied / Silver: min 5 completed with 2 Highly Satisfied / Gold - min 10 completed with 4 Highly Satisfied]",
+                sheetName: '01012019-06202019'
+           }]
+            });
+            });
+    </script>
+</head>
+<body>
+  <table id="table_id" class="display compact">
+        <thead class="text-primary"></thead>
+        <tbody></tbody>
+        <tfoot class="text-primary">
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>                
+            </tr>
+        </tfoot>      
+</table>
+                
+</body>
+ </html> 

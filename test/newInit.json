@@ -1,0 +1,60 @@
+    "title": "Inventor education series - Spring 2024 ",
+    "status": "Draft",
+    "type": "Affiliate",
+    "leader": "Natesan Venkateswaran",
+    "leaderInternet": "natesan@us.ibm.com",
+    "ERBReviewerSendEmail": [],
+    "executiveChampion": [
+      "Maria Boonie"
+    ],
+    "executiveChampionInternet": [
+      "emaria@us.ibm.com"
+    ],
+    "executiveChampionReason": "Maria is a staunch supporter and the exec sponsor for all of MHV TVA initiatives. ",
+    "associatedBusinessUnit": "",
+    "associatedBusinessUnitOther": "",
+    "focusArea": "Technical Vitality",
+    "affiliateName": [
+      "MHV TVA"
+    ],
+    "industryName": [
+      ""
+    ],
+    "startDate": {
+      "$date": "2024-02-01T00:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-03-31T00:00:00.000Z"
+    },
+    "description": "There are lots of questions on people's minds on IBM's strategy, This initiative aims to provide clarity on this by conducting weekly events to educate the inventor community. The weekly events would include executive overviews, deeper insights into our IP strategy, Master Inventor Panels, resources for new inventors, etc.",
+    "problemStatement": "There are lots of questions on people's minds on IBM's strategy, This initiative aims to provide clarity on this by conducting weekly events to educate the inventor community. The weekly events would include executive overviews, deeper insights into our IP strategy, Master Inventor Panels, resources for new inventors, etc.",
+    "outcome": "With this education series, the inventor community will have more clarity on the current IP strategy. We also hope to inspire more IBMers to jump on the invention bandwagon, ",
+    "coleaders": [
+      "JAYAPREETHA NATESAN"
+    ],
+    "coleadersInternet": [
+      "jayanate@us.ibm.com"
+    ],
+    "affiliateTypeChecked": true,
+    "blogURL": "",
+    "slackURL": "",
+    "boxURL": "",
+    "draftDate": {
+      "$date": "2024-01-26T02:11:24.727Z"
+    },
+    "reportURL": [],
+    "lastUpdateDate": {
+      "$date": "2024-01-26T02:13:20.588Z"
+    },
+    "ecReRate": false,
+    "openCallsForParticipation": 0,
+    "excludeInCI": false,
+    "lastChangedBy": [],
+    "lastChangedByNonAdmin": [],
+    "systemLogs": [
+      "User 'natesan@us.ibm.com' added Executive Champion Maria Boonie (emaria@us.ibm.com) - Thu Jan 26 2024 21:08:44 GMT-0500 (GMT-05:00)"
+    ],
+    "patentInterest": true,
+    "possibleRFP": true,
+    "possibleRFPYYYYMM": "2024-04",
+    "allowUnlimitedParticipants": ""

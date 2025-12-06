@@ -1,0 +1,4433 @@
+[
+  {
+    "id": "C4JHPRQLR",
+    "name": "aot-general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489664583,
+    "is_archived": false,
+    "is_general": true,
+    "unlinked": 0,
+    "name_normalized": "aot-general",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1602089385352,
+    "parent_conversation": null,
+    "creator": "W4GER3R3J",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "AoT Home: <https://w3.ibm.com/ibm/academy>\nAoT Initiatives:  <https://aotweb.dal1a.cirrus.ibm.com/initiatives>",
+      "creator": "W45B0JCCR",
+      "last_set": 1602089385
+    },
+    "purpose": {
+      "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "general"
+    ],
+    "num_members": 10126
+  },
+  {
+    "id": "C4JHPRQTB",
+    "name": "random",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489664583,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "random",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150666296,
+    "parent_conversation": null,
+    "creator": "W4GER3R3J",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Non-work banter and water cooler conversation",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C4KD6NHNC",
+    "name": "a-ap-tec_asean",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778516,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ap-tec_asean",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584586324683,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "TEC ASEAN (TEC ASEAN) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586324
+    },
+    "purpose": {
+      "value": "This channel is for TEC ASEAN (TEC ASEAN) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586317
+    },
+    "previous_names": [],
+    "num_members": 34
+  },
+  {
+    "id": "C4KD78V88",
+    "name": "a-ap-tec_korea",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778574,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ap-tec_korea",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1654318884369,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "TEC Korea (TEC Korea) - Membership (<https://w3.ibm.com/w3publisher/tec-korea>)",
+      "creator": "W7NCCKQMP",
+      "last_set": 1654318884
+    },
+    "purpose": {
+      "value": "This channel is for TEC Korea (TEC Korea) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586579
+    },
+    "previous_names": [],
+    "num_members": 319
+  },
+  {
+    "id": "C4KD9QP7S",
+    "name": "a-eu-tec_central",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778855,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-tec_central",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1593606163988,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "PLEASE Use our TEC Central Slack Workspace: <http://ibmteccr.slack.com|ibmteccr.slack.com>\nThis channel is only used for the Academy to know our members…\nTEC Central (TEC Central) - Membership",
+      "creator": "W42RGQZKM",
+      "last_set": 1593606163
+    },
+    "purpose": {
+      "value": "This channel is for TEC Central (TEC Central) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586428
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C4KDGSA00",
+    "name": "a-me-subsa_tlt",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779646,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-me-subsa_tlt",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1634127861241,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Technical Experts Council South Africa (SubSA TLT) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584569205
+    },
+    "purpose": {
+      "value": "This channel is for Technical Experts Council South Africa (SubSA TLT) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584569197
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4KDJRLRW",
+    "name": "a-ww-cio_tlc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779864,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ww-cio_tlc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150732336,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "CIO TLC affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489779865
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4KE46BT3",
+    "name": "a-eu-tec_romania",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778737,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-tec_romania",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584586792623,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Technical Expert Council Romania (TEC Romania) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586792
+    },
+    "purpose": {
+      "value": "This channel is for Technical Expert Council Romania (TEC Romania) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586785
+    },
+    "previous_names": [],
+    "num_members": 49
+  },
+  {
+    "id": "C4KE5MF5F",
+    "name": "a-eu-nordic_tec",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778903,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-nordic_tec",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584567413943,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "TEC Nordic (Nordic TEC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567413
+    },
+    "purpose": {
+      "value": "This channel is for TEC Nordic (Nordic TEC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567406
+    },
+    "previous_names": [
+      "a-eu-tec_nordic"
+    ],
+    "num_members": 50
+  },
+  {
+    "id": "C4KE5QNKB",
+    "name": "a-tec-poland",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778920,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-tec-poland",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150734086,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "TEC Poland affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778921
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4KG7LC6N",
+    "name": "i_a-co-creation",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489690354,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-co-creation",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150738063,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Initiative channel for Co-Creation work. Rolando Franco is Initiative Owner.",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489690355
+    },
+    "previous_names": [
+      "i_a-co_creation",
+      "i-co_creation"
+    ],
+    "num_members": 23
+  },
+  {
+    "id": "C4L2LBS11",
+    "name": "a-eu-spgi_tec",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778645,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-spgi_tec",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584568200226,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Spain, Portugal, Greece and Israel Technical Expert Council (SPGI TEC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584568200
+    },
+    "purpose": {
+      "value": "This channel is for Spain, Portugal, Greece and Israel Technical Expert Council (SPGI TEC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584568192
+    },
+    "previous_names": [],
+    "num_members": 38
+  },
+  {
+    "id": "C4L2N323V",
+    "name": "a-eu-tec_benelux",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778833,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-tec_benelux",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150776144,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "TEC Benelux affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778834
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L4LPU8J",
+    "name": "a-eu-cee_tlc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778620,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-cee_tlc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584556293367,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "CEE TLC (CEE TLC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556293
+    },
+    "purpose": {
+      "value": "This channel is for CEE TLC (CEE TLC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556285
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C4L4ZMD6W",
+    "name": "a-ww-tec_supply_chain",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489780071,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ww-tec_supply_chain",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150780885,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "TEC Supply Chain affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489780071
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5MB1CL",
+    "name": "a-ap-tec_anz",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778239,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ap-tec_anz",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1666713185800,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Technical Experts Council - Australia and New Zealand (TEC A/NZ) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586234
+    },
+    "purpose": {
+      "value": "This channel is for Technical Experts Council - Australia and New Zealand (TEC A/NZ) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586228
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5PB5UL",
+    "name": "a-ap-japan",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778471,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ap-japan",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150781882,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "TEC Japan affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778471
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5Q3XKN",
+    "name": "a-ap-gcg",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778545,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ap-gcg",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150781888,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "TEC Greater China affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778546
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5V295J",
+    "name": "a-la-mexico_tc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779102,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-la-mexico_tc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1588003365609,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "organize RTE 2017",
+      "creator": "W28GC0Q6B",
+      "last_set": 1496154267
+    },
+    "purpose": {
+      "value": "Mexico Technical Council affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489779102
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5VK8J0",
+    "name": "a-la-argentina_tc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779164,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-la-argentina_tc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1599057546201,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Technical Council Argentina (TC Argentina) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586111
+    },
+    "purpose": {
+      "value": "This channel is for Technical Council Argentina (TC Argentina) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584586103
+    },
+    "previous_names": [
+      "a-tca",
+      "a-tca-core",
+      "a-la-tc_argentina"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5Y8W5S",
+    "name": "a-aw-rochester_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779459,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-aw-rochester_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1586978320246,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Rochester TVC affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489779459
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5YM2JY",
+    "name": "a-aw-sv_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779503,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-aw-sv_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1601304127253,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Silicon Valley Technical Vitality Council (Silicon Valley TVC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567874
+    },
+    "purpose": {
+      "value": "This channel is for Silicon Valley Technical Vitality Council (Silicon Valley TVC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567867
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5ZC3NY",
+    "name": "a-me-mept_tec",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779588,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-me-mept_tec",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1614778010751,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Middle East Technical Expert Council open channel",
+      "creator": "W4940J43V",
+      "last_set": 1613648297
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L5ZL1S8",
+    "name": "a-me-north_africa_tec",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779616,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-me-north_africa_tec",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1643651078729,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "North Africa Technical Experts Council (North Africa TEC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556787
+    },
+    "purpose": {
+      "value": "This channel is for North Africa Technical Experts Council (North Africa TEC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556779
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L79K4SZ",
+    "name": "a-eu-tec_italy",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778878,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-tec_italy",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1589201246694,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "This is the public channel to be used for TEC Italy communications\nInitiative for 2020: <https://trello.com/b/teTXDIHd/tec-italy-2020-initiatives>\nTEC Italy web site: <https://w3.ibm.com/w3publisher/tec-italy/>",
+      "creator": "W4F17SZLN",
+      "last_set": 1589201246
+    },
+    "purpose": {
+      "value": "TEC Italy affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778879
+    },
+    "previous_names": [],
+    "num_members": 29
+  },
+  {
+    "id": "C4L7H27PF",
+    "name": "a-ww-gps_tc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779700,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ww-gps_tc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1617973040825,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Global Public Sector Technical Community (Global Public Sector TC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556597
+    },
+    "purpose": {
+      "value": "This channel is for Global Public Sector Technical Community (Global Public Sector TC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556591
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4L7UTKEU",
+    "name": "aot-aspiring-candidat",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490034079,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-aspiring-candidat",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1636983138607,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "An area for Aspiring Candidates to ask questions and get updates",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1490034079
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4LP06F35",
+    "name": "a-ae-washington_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490023430,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ae-washington_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1615916223310,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Washington Metro Area Technical Vitality Council (Washington Metro Area TVC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584587063
+    },
+    "purpose": {
+      "value": "Washington Metro Area Technical Vitality Council (Washington Metro Area TVC) - Membership",
+      "creator": "W5D332S3S",
+      "last_set": 1615916223
+    },
+    "previous_names": [],
+    "num_members": 1405
+  },
+  {
+    "id": "C4LQR8PV4",
+    "name": "a-la-colombia_tec",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779034,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-la-colombia_tec",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1606163414456,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Colombia Technical Expert Council (Colombia TEC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556410
+    },
+    "purpose": {
+      "value": "This channel is for Colombia Technical Expert Council (Colombia TEC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584556404
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4LQUHLRL",
+    "name": "a-aw-austin_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779400,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-aw-austin_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584483176447,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Austin Technical Vitality Council (Austin TVC)",
+      "creator": "W45B0JCCR",
+      "last_set": 1584483176
+    },
+    "purpose": {
+      "value": "Austin Technical Vitality Council",
+      "creator": "W45B0JCCR",
+      "last_set": 1584483148
+    },
+    "previous_names": [],
+    "num_members": 3
+  },
+  {
+    "id": "C4LR08BH8",
+    "name": "a-ae-so_florida_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490023401,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ae-so_florida_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584568072563,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "South Florida Technical Vitality Council (South Florida TVC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584568072
+    },
+    "purpose": {
+      "value": "This channel is for South Florida Technical Vitality Council (South Florida TVC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584568066
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C4LR0NK1V",
+    "name": "a-eu-tec_rcis",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489778802,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-eu-tec_rcis",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150817131,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "W4SUASBTK",
+      "last_set": 1491838542
+    },
+    "purpose": {
+      "value": "TEC Russia/CIS affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489778802
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C4LR3LDL7",
+    "name": "a-la-peru_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779130,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-la-peru_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584567603792,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Peru Technical Vitality Council (Peru TVC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567603
+    },
+    "purpose": {
+      "value": "This channel is for Peru Technical Vitality Council (Peru TVC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567598
+    },
+    "previous_names": [],
+    "num_members": 112
+  },
+  {
+    "id": "C4LR7AAVD",
+    "name": "a-aw-so_cal_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489779540,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-aw-so_cal_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150817894,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Southern California TVC affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489779541
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4LRBEV8F",
+    "name": "a-ww-research_pics",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489780004,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ww-research_pics",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1584567799871,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Research Professional Interest Communities (Research PIC) - Membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567799
+    },
+    "purpose": {
+      "value": "This channel is for Research Professional Interest Communities (Research PIC) membership",
+      "creator": "WA27K4DPH",
+      "last_set": 1584567791
+    },
+    "previous_names": [],
+    "num_members": 6
+  },
+  {
+    "id": "C4LRF9LB0",
+    "name": "a-ww-swg_ww_tlc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1489781728,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ww-swg_ww_tlc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150817980,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Software Group WW TLC affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1489781729
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4M835ZM1",
+    "name": "general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490097232,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "general",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150833545,
+    "parent_conversation": null,
+    "creator": "W4GCXRBMM",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 3
+  },
+  {
+    "id": "C4MFXPVFH",
+    "name": "a-ae-burlington_tvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490023321,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-ae-burlington_tvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150841813,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Burlington TVC affiliate channel",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1490023321
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4S5VFGE6",
+    "name": "i_a-mi-dashboard",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490891743,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-mi-dashboard",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150954603,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Initiative: Master Inventor Dashboard",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1490891743
+    },
+    "previous_names": [
+      "i-mi-dashboard"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C4S7SCQCX",
+    "name": "aot-net-toussaint",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490806412,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-net-toussaint",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150955849,
+    "parent_conversation": null,
+    "creator": "W48F1ATA5",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Neil Toussaint's AoT.NET squad",
+      "creator": "W48F1ATA5",
+      "last_set": 1490806414
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C4S8WKN2V",
+    "name": "a-socaltvc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1490994590,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-socaltvc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150956198,
+    "parent_conversation": null,
+    "creator": "W3X549FK3",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "SoCal TVC Community collaboration",
+      "creator": "W3X549FK3",
+      "last_set": 1490994591
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4TEK8K17",
+    "name": "aot_cognitive_app",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491308179,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot_cognitive_app",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1588679760853,
+    "parent_conversation": null,
+    "creator": "W4RG56KE0",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "AoT initiative to develop a Cognitive search application that can be integrated in the AoT website",
+      "creator": "W4RG56KE0",
+      "last_set": 1491831354
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4U25J5M3",
+    "name": "cognitive-ops-wg-tecj",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491270029,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "cognitive-ops-wg-tecj",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558150989073,
+    "parent_conversation": null,
+    "creator": "W3PJ8ALBS",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "W3PJ8ALBS",
+      "last_set": 1513774696
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C4UNKSC80",
+    "name": "i_a-bc-ref-arch",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491483164,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-bc-ref-arch",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151002185,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Initiative channel for \"IBM Blockchain Reference Architecture\".\r\nBox folder: https://ibm.ent.box.com/folder/23866023957",
+      "creator": "W4DTYBMMG",
+      "last_set": 1496234817
+    },
+    "previous_names": [],
+    "num_members": 22
+  },
+  {
+    "id": "C4V52FZT6",
+    "name": "ask-spss-analytic-svr",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491423202,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ask-spss-analytic-svr",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151009177,
+    "parent_conversation": null,
+    "creator": "W4VLR7VBQ",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4VAT3Z2Q",
+    "name": "aot-bc-ref-arch",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491459708,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-bc-ref-arch",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151013205,
+    "parent_conversation": null,
+    "creator": "W4AC1RLSW",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "AoT Initiative for developing a Blockchain Reference Architecture",
+      "creator": "W4AC1RLSW",
+      "last_set": 1491459709
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C4VLJ8QG2",
+    "name": "i_f-feed-the-need",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491502864,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_f-feed-the-need",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151017737,
+    "parent_conversation": null,
+    "creator": "W49S4728P",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "AoT integration TBD",
+      "creator": "W49S4728P",
+      "last_set": 1491503145
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4VP4PN77",
+    "name": "a-prevail",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491502712,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "a-prevail",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1570731495328,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "This channel, formerly #a-ww-wwppc , is used for collaboration among the World-Wide Performance and Availability Community of Practice (WWPACoP) affiliate.",
+      "creator": "W45B0JCCR",
+      "last_set": 1570731495
+    },
+    "purpose": {
+      "value": "The World-Wide Performance and Availability Community of Practice (WWPACoP) is a community of IBM Technical Leaders specialising/interested in Availability and Performance Engineering, Availability and Capacity Management and related topics.",
+      "creator": "W45B0JCCR",
+      "last_set": 1570731084
+    },
+    "previous_names": [
+      "a-ww-wwppc"
+    ],
+    "num_members": 844
+  },
+  {
+    "id": "C4W3VAQSY",
+    "name": "cdi_data_coverage",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491568185,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "cdi_data_coverage",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151025666,
+    "parent_conversation": null,
+    "creator": "W3EGHDD2B",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Data Coverage team",
+      "creator": "W3EGHDD2B",
+      "last_set": 1491568186
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4WBU3FDF",
+    "name": "i_a-open_climate_data",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1491838221,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-open_climate_data",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151029576,
+    "parent_conversation": null,
+    "creator": "W4L88UEN5",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C4YFP7SSU",
+    "name": "rca-cognitive",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492133392,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "rca-cognitive",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151061663,
+    "parent_conversation": null,
+    "creator": "W4S1BDPFU",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Form a group to give inputs on Cognitive RCA",
+      "creator": "W4S1BDPFU",
+      "last_set": 1492133393
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C4YQ29RR9",
+    "name": "i_a-engaging-devs",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492092691,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-engaging-devs",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151066611,
+    "parent_conversation": null,
+    "creator": "W48F1ATA5",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Support collaboration across the Better Engaging External Developers initiative",
+      "creator": "W48F1ATA5",
+      "last_set": 1492092691
+    },
+    "previous_names": [],
+    "num_members": 8
+  },
+  {
+    "id": "C4YTJKSMP",
+    "name": "tle-micro-challenge",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492203163,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "tle-micro-challenge",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151068569,
+    "parent_conversation": null,
+    "creator": "W3Q7CJS2D",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "For the leaders, mentors and participants of the  pioneering tle-micro-challenge",
+      "creator": "W3Q7CJS2D",
+      "last_set": 1492203166
+    },
+    "previous_names": [],
+    "num_members": 17
+  },
+  {
+    "id": "C503BS23H",
+    "name": "irelandpatentteam",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492181452,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "irelandpatentteam",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151086426,
+    "parent_conversation": null,
+    "creator": "W4963EMC2",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Create patents with a diverse team spanning the globe!",
+      "creator": "W4963EMC2",
+      "last_set": 1492181453
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C504AFYBH",
+    "name": "rtp",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492185442,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "rtp",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151087218,
+    "parent_conversation": null,
+    "creator": "W4D3B1FM4",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C51MNPM1D",
+    "name": "i_a-cloud-gap-for-gov",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492538433,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-cloud-gap-for-gov",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151111206,
+    "parent_conversation": null,
+    "creator": "W498LV45B",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Slack channel for IBM Cloud Gap Analysis for Government",
+      "creator": "W498LV45B",
+      "last_set": 1492538434
+    },
+    "previous_names": [
+      "i-a-cloud-gap-for-gov",
+      "cloud-gap-for-gov"
+    ],
+    "num_members": 3
+  },
+  {
+    "id": "C5272UZ09",
+    "name": "aot-vr",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1492796630,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-vr",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151119343,
+    "parent_conversation": null,
+    "creator": "W3S4KQ43H",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Virtual Reality research, engineering, client engagements, partnerships, use by IBM employees",
+      "creator": "W3S4KQ43H",
+      "last_set": 1492796630
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C54JE1W48",
+    "name": "technical-eminence",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493273291,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "technical-eminence",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151149859,
+    "parent_conversation": null,
+    "creator": "W3D4XTKKJ",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Collaborate with External Face and Social Role Model Initiative Stakeholders",
+      "creator": "W3D4XTKKJ",
+      "last_set": 1493273292
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C55HBDQM7",
+    "name": "gi-agile-masters",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493391356,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "gi-agile-masters",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151161741,
+    "parent_conversation": null,
+    "creator": "W49RW0R8E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "gi-agile-masters-not",
+      "gi-agile-masters"
+    ],
+    "num_members": 1
+  },
+  {
+    "id": "C585W4FQQ",
+    "name": "phosphorous",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493919359,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "phosphorous",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151199754,
+    "parent_conversation": null,
+    "creator": "W4LUC7HDY",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Discuss and create",
+      "creator": "W4LUC7HDY",
+      "last_set": 1493919361
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C587V9GCR",
+    "name": "kr-codeathon-alert",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493916393,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "kr-codeathon-alert",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151200111,
+    "parent_conversation": null,
+    "creator": "W4R6KQREW",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Agent output for Knowledge Reactor Code-a-thon",
+      "creator": "W4R6KQREW",
+      "last_set": 1493916393
+    },
+    "previous_names": [],
+    "num_members": 6
+  },
+  {
+    "id": "C58L4KWE6",
+    "name": "i_a-tech_eminence",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493903843,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-tech_eminence",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151205867,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Initiative work for Technical Eminence",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1493903843
+    },
+    "previous_names": [],
+    "num_members": 12
+  },
+  {
+    "id": "C58NB4T5H",
+    "name": "kr-codeathon-support",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1493916180,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "kr-codeathon-support",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151206864,
+    "parent_conversation": null,
+    "creator": "W4R6KQREW",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Support channel for Knowledge Reactor Code-a-thon",
+      "creator": "W4R6KQREW",
+      "last_set": 1493916180
+    },
+    "previous_names": [],
+    "num_members": 8
+  },
+  {
+    "id": "C59DSLA3T",
+    "name": "2017study-bsc4hc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494227494,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "2017study-bsc4hc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151215931,
+    "parent_conversation": null,
+    "creator": "W4TU4FZ6Z",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Measuring Hybrid Cloud benefits using a Balanced ScoreCard approach",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1494227495
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C59H4AF5W",
+    "name": "dummy-prove_varie",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494257034,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dummy-prove_varie",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151217208,
+    "parent_conversation": null,
+    "creator": "W4TU4FZ6Z",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "cosa è un topic?",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1494939562
+    },
+    "purpose": {
+      "value": "Facciamo le prove che vogliamo poi cancelliamo il canale",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1494257034
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5A0JP16H",
+    "name": "data-service-layer",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494188077,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "data-service-layer",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151222946,
+    "parent_conversation": null,
+    "creator": "W4ESWGT2P",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5A9E37QS",
+    "name": "aot-cognitive-slack",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494263167,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-cognitive-slack",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151227087,
+    "parent_conversation": null,
+    "creator": "W4FKGQQPQ",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Testing AoT conversation with NLU",
+      "creator": "W4FKGQQPQ",
+      "last_set": 1494263168
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C5CEDUDMY",
+    "name": "aot-aha-ideas",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494552864,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-aha-ideas",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151254122,
+    "parent_conversation": null,
+    "creator": "W476VEMK8",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "to share info on Academy of Technology ideas/requirements requests using the Aha Tool for their tracking",
+      "creator": "W476VEMK8",
+      "last_set": 1494552864
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C5D8ECA48",
+    "name": "7lp-pti",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494902482,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "7lp-pti",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151262745,
+    "parent_conversation": null,
+    "creator": "W4MJU2EKY",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C5E9K30VC",
+    "name": "ibm-cluj-campus",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1494843579,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ibm-cluj-campus",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151275847,
+    "parent_conversation": null,
+    "creator": "W4LH88M8Q",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "IBM Cluj Discussions",
+      "creator": "W4LH88M8Q",
+      "last_set": 1494843580
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5EGEPTLH",
+    "name": "bsc4hc_financial_pers",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495113955,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "bsc4hc_financial_pers",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151279547,
+    "parent_conversation": null,
+    "creator": "W3R0615JS",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 3
+  },
+  {
+    "id": "C5ELXJ410",
+    "name": "bsc4hc-customer_persp",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495037201,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "bsc4hc-customer_persp",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151281577,
+    "parent_conversation": null,
+    "creator": "W4TU4FZ6Z",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "The purpose of this channel is to collaborate within the \"Customer\" perspective subteam. However, the channel will include all the members in order for the others, if interested, to see what the other subteam is doing.",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1495037346
+    },
+    "purpose": {
+      "value": "The purpose of this group is to collaborate within the customer perspective subteam. However, the team will include all the members in order for the others, if interested, to see what the other subteam is doing.",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1495037202
+    },
+    "previous_names": [],
+    "num_members": 3
+  },
+  {
+    "id": "C5ENL0AE9",
+    "name": "aot-cognitive",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495033189,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-cognitive",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151281870,
+    "parent_conversation": null,
+    "creator": "W3PQZFY7P",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Intended to be a public-to-IBM channel for AoT cognitive activities and coordination by the AoT Cognitive Core Team",
+      "creator": "W3PQZFY7P",
+      "last_set": 1495033190
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C5F1LH0BD",
+    "name": "bsc4hc-process_persp",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495114146,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "bsc4hc-process_persp",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151286720,
+    "parent_conversation": null,
+    "creator": "W58GW6EJW",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "The purpose of this group is to collaborate within the process &amp; Technology perspective subteam. However, the team will include all the members in order for the others, if interested, to see what the other subteam is doing.",
+      "creator": "W58GW6EJW",
+      "last_set": 1495114227
+    },
+    "previous_names": [],
+    "num_members": 3
+  },
+  {
+    "id": "C5F88LEE6",
+    "name": "kr-code",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495131272,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "kr-code",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151289770,
+    "parent_conversation": null,
+    "creator": "W4BSZ1G8M",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5JJ16Z1T",
+    "name": "bsc4hc-people_persp",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495799502,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "bsc4hc-people_persp",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151332066,
+    "parent_conversation": null,
+    "creator": "W59BNG3FG",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C5K3W0HCZ",
+    "name": "aot-study-regtech",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496136329,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-study-regtech",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151336986,
+    "parent_conversation": null,
+    "creator": "W4FQ5EAHJ",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This channel is being used for AoT Study on Cognitive Regulatory Compliance",
+      "creator": "W4FQ5EAHJ",
+      "last_set": 1498658768
+    },
+    "previous_names": [],
+    "num_members": 15
+  },
+  {
+    "id": "C5K99MB8W",
+    "name": "aot-input",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1495798162,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "aot-input",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151338251,
+    "parent_conversation": null,
+    "creator": "W476VEMK8",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Channel to be used for AoT members and the IBM community to provide input to the Academy Squad Team (Program Office) on tools and capabilities",
+      "creator": "W476VEMK8",
+      "last_set": 1495798162
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5KG7AN4R",
+    "name": "i_a-chess-dog-design",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496177610,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-chess-dog-design",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151341029,
+    "parent_conversation": null,
+    "creator": "W4A3VKQR4",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "Initial design discussions for the three teams as part of Sprint 1",
+      "creator": "W4A3VKQR4",
+      "last_set": 1496768835
+    },
+    "purpose": {
+      "value": "Outreach initiative to create a chess-playing robot dog for the Grand Chess Tour in 4Q 2017",
+      "creator": "W4A3VKQR4",
+      "last_set": 1496177611
+    },
+    "previous_names": [
+      "chess-dog-design"
+    ],
+    "num_members": 3
+  },
+  {
+    "id": "C5P7FGCR3",
+    "name": "steerkg",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496724511,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "steerkg",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151375109,
+    "parent_conversation": null,
+    "creator": "W4MQFDBPH",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5PUDCSU8",
+    "name": "i_a-initiative-value",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496918068,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-initiative-value",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151382917,
+    "parent_conversation": null,
+    "creator": "W4F0JGTQU",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Channel for initiative: \"Driving better outcomes and impact from initiatives\"",
+      "creator": "W47C65SUW",
+      "last_set": 1496918156
+    },
+    "previous_names": [],
+    "num_members": 2
+  },
+  {
+    "id": "C5Q62D465",
+    "name": "i_a-master-coder-prog",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496932726,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-master-coder-prog",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151385678,
+    "parent_conversation": null,
+    "creator": "W464BTA3U",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Initiative for the Master Social Coder programme",
+      "creator": "W464BTA3U",
+      "last_set": 1496932727
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C5Q6UUAA1",
+    "name": "provarename",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1496849779,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "provarename",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1560240104352,
+    "parent_conversation": null,
+    "creator": "W4TU4FZ6Z",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Discussion about tooling for the bsc4hc AoT study",
+      "creator": "W4TU4FZ6Z",
+      "last_set": 1496849780
+    },
+    "previous_names": [
+      "bsc4hc-tooling-team5"
+    ],
+    "num_members": 2
+  },
+  {
+    "id": "C5SV26AUS",
+    "name": "dev_pms",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1497363256,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "dev_pms",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151412876,
+    "parent_conversation": null,
+    "creator": "W5B7ZJJTD",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C5XTUG76W",
+    "name": "blockchain",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1498139557,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "blockchain",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151455927,
+    "parent_conversation": null,
+    "creator": "W4M3ES9TL",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C5ZH08V1V",
+    "name": "speed_mainframe_cog3",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1498238013,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "speed_mainframe_cog3",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151468822,
+    "parent_conversation": null,
+    "creator": "W493J7XR9",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Run Curathon for SPEED project - Mainframe Cog 3",
+      "creator": "W493J7XR9",
+      "last_set": 1498238013
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C60HDH32Q",
+    "name": "harrison-test",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1498600650,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "harrison-test",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151476852,
+    "parent_conversation": null,
+    "creator": "W4983G5NG",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "na-sap-sa-techsales"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C626S9RCZ",
+    "name": "ibm-oncor-pete-team",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1498964826,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ibm-oncor-pete-team",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151488993,
+    "parent_conversation": null,
+    "creator": "W5F2PTR32",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "IBM-ONCOR-PETE-PROJECT-TEAM communication channel",
+      "creator": "W5F2PTR32",
+      "last_set": 1498964827
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C631F0BF1",
+    "name": "junk_ewn",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1498824531,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "junk_ewn",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151494990,
+    "parent_conversation": null,
+    "creator": "W4DBT1EBF",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "NEEDS TO BE DELETED",
+      "creator": "W4DBT1EBF",
+      "last_set": 1504896575
+    },
+    "previous_names": [
+      "lamars_ce_ctps"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C64D75HKM",
+    "name": "samart",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1499312725,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "samart",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151506246,
+    "parent_conversation": null,
+    "creator": "W4GE4N7K8",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C65EVQBJR",
+    "name": "gts-nordic-bigfix",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1499433695,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "gts-nordic-bigfix",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151515319,
+    "parent_conversation": null,
+    "creator": "W4CK7BZ1S",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "BigFix Services Enablement in GTS Nordics",
+      "creator": "W4CK7BZ1S",
+      "last_set": 1499433696
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C65T8KMLM",
+    "name": "wpp_london",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1499511252,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "wpp_london",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151518332,
+    "parent_conversation": null,
+    "creator": "W5R98NKTM",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "wpp related communication",
+      "creator": "W5R98NKTM",
+      "last_set": 1499511253
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C679VU0UD",
+    "name": "i_a-master_inventor",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1499797424,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-master_inventor",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151529280,
+    "parent_conversation": null,
+    "creator": "W46Q9AQ4E",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "for Master Inventor initiative",
+      "creator": "W46Q9AQ4E",
+      "last_set": 1499797424
+    },
+    "previous_names": [],
+    "num_members": 12
+  },
+  {
+    "id": "C694B3V2M",
+    "name": "tec-india-core",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500290807,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "tec-india-core",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151545151,
+    "parent_conversation": null,
+    "creator": "W4DL2GDUH",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Channel for the core team members of TEC-India to collaborate",
+      "creator": "W4DL2GDUH",
+      "last_set": 1500290809
+    },
+    "previous_names": [],
+    "num_members": 10
+  },
+  {
+    "id": "C6ALWL1JP",
+    "name": "testwcs",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500469149,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "testwcs",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151559245,
+    "parent_conversation": null,
+    "creator": "W45TJUY3U",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "test WCS",
+      "creator": "W45TJUY3U",
+      "last_set": 1500469150
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C6BF9JU07",
+    "name": "i_a-coding-transform",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500401655,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "i_a-coding-transform",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151566525,
+    "parent_conversation": null,
+    "creator": "W476VEMK8",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "To collaborate on the Academy Coding Transformation Initiative",
+      "creator": "W476VEMK8",
+      "last_set": 1501701142
+    },
+    "previous_names": [
+      "i_a-coding-ventures"
+    ],
+    "num_members": 37
+  },
+  {
+    "id": "C6CFLNFNC",
+    "name": "tec-india-initiatives",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500963735,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "tec-india-initiatives",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151575694,
+    "parent_conversation": null,
+    "creator": "W4GEB480N",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "common platform to discuss on tec india initiatives",
+      "creator": "W4GEB480N",
+      "last_set": 1500963736
+    },
+    "previous_names": [],
+    "num_members": 15
+  },
+  {
+    "id": "C6D4YAD29",
+    "name": "csd_slack",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500930113,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "csd_slack",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151582549,
+    "parent_conversation": null,
+    "creator": "W4M36BHSN",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C6D4YP2HK",
+    "name": "csd_pic",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500930159,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "csd_pic",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151582552,
+    "parent_conversation": null,
+    "creator": "W4M36BHSN",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C6D6U0BS7",
+    "name": "comp-change-tracking",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1500983322,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "comp-change-tracking",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T4KU7QY0N",
+    "updated": 1558151583468,
+    "parent_conversation": null,
+    "creator": "W4R4JFR7D",
+    "is_moved": 0,
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "internal_team_ids": [
+      "T4KU7QY0N"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 2
+  }
+]

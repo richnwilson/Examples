@@ -1,0 +1,8 @@
+i-supply-assurance-general
+i-customer_care_game_changer
+i-sre-maturity-assessment
+i-5nm-pd-patent-workshop
+i-edge_insights_on_ibm_z
+i-ontology-template
+i-openshift-for-ct
+i-sap-on-vpc

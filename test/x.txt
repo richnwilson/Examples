@@ -1,0 +1,14 @@
+Must include a description in the 'About' section of the main repo page
+Must include a STARTER_TEAM.md at the root level that explains who the key owners are. Feel free to use <a href='https://github.ibm.com/innersource/project-pattern/blob/main/STARTER_TEAM.md'>this</a> one from the InnerSource Pattern template and update accordingly
+Must include a CODE_OF_CONDUCT.md at the root level that explains IBMs expected code of conduct. Feel free to use <a href='https://github.ibm.com/innersource/project-pattern/blob/main/CODE_OF_CONDUCT.md'>this</a> one from the InnerSource Pattern template and update accordingly                
+You should have an 'About' > 'Website' link that either points to the URL of the deployed application or a valid gitPages reference          
+Must include a CONTRIBUTING.md at the root level that explains how to contibute to this repo. Feel free to use <a href='https://github.ibm.com/innersource/project-pattern/blob/main/CONTRIBUTING.md'>this</a> one from the InnerSource Pattern template and update accordingly
+Must include a GETTING_STARTED.md at the root level that explains how to setup the repo. Feel free to use <a href='https://github.ibm.com/innersource/project-pattern/blob/main/GETTING_STARTED.md'>this</a> one from the InnerSource Pattern template and update accordingly
+<strong>NOTE:</strong> The following labels have been added to this repository - 
+Your default branch should not be called 'master'`,
+You must protect your default branch from contributors. You can add this restriction by clicking <a href='https://github.ibm.com/${gitOrganizationName}/${name}/settings/branch_protection_rules/new'>this</a> link. Once added, you will need to make a repository change to trigger the webhook and update the portal status i.e. updating the repository description
+Must include an innersource.yaml at the root level and must have the following required fields: 
+Must include a README.md at the root level that provides an overview of your repo
+Must include a .github folder with a sub-directory called 'ISSUE_TEMPLATE' that has template files (.md). You can create them from the UI, or copy the InnerSource Pattern template <a href='https://github.ibm.com/innersource/project-pattern/tree/main/.github/ISSUE_TEMPLATE'>examples</a>
+Must include a .github folder with a file called 'CODEOWNERS' that is a list of repo owners. Feel free to use the <a href='https://github.ibm.com/innersource/project-template/blob/main/.github/CODEOWNERS'>example</a> in the InnerSource Pattern template and adapt as necessary
+Must include a .github folder with a file called 'pull_request_template.md' that is the template used for contributor pull requests. Feel free to use the <a href='https://github.ibm.com/innersource/project-template/blob/main/.github/pull_request_template.md'>example</a> in the InnerSource Pattern template

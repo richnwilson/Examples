@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tennis Stringing Information</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom font and basic setup */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f7f7;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <!-- Main Container -->
+    <div class="w-full max-w-2xl bg-white shadow-2xl rounded-xl p-6 md:p-10 border border-gray-100">
+
+        <h1 class="text-3xl font-extrabold text-gray-900 mb-6 text-center">
+            Tennis Racket Stringing Information
+        </h1>
+
+        <!-- Dropdown Selector -->
+        <div class="mb-8">
+            <label for="item-select" class="block text-lg font-medium text-gray-700 mb-2">
+                Select a racket:
+            </label>
+            <select id="item-select" class="w-full p-3 border border-gray-300 rounded-lg shadow-sm focus:border-indigo-500 focus:ring-indigo-500 transition duration-150 ease-in-out text-gray-800 bg-white cursor-pointer">
+                <option value="volkl">Volkl V-Cell 4</option>
+                <option value="wilson">Wilson Federer Pro</option>
+            </select>
+        </div>
+
+        <!-- Dynamic Information Card -->
+        <div id="info-card" class="bg-indigo-600 text-white rounded-xl p-6 md:p-8 shadow-lg transition-all duration-300 ease-in-out transform hover:scale-[1.01] hover:shadow-xl">
+            <!-- Content will be injected here by JavaScript -->
+        </div>
+
+    </div>
+
+    <script>
+        // Data Store for the Card Content
+        const itemData = {
+            'volkl': {
+                title: 'Volkl V-Cell 4',
+                type: 'Wilson NXT Comfort',
+                gauge: '16G (1.30mm)',
+                tension: '55lbs (25kg)',
+                date: 'Oct 11th 2025'
+            },
+            'wilson': {
+                title: 'Wilson Federer Pro',
+                type: 'Wilson NXT Comfort',
+                gauge: '16G (1.30mm)',
+                tension: '55lbs (25kg)',
+                date: 'Oct 19th 2025'
+            }
+        };
+
+        const selectElement = document.getElementById('item-select');
+        const cardElement = document.getElementById('info-card');
+
+        // Function to update the card content
+        function updateCard(itemId) {
+            const data = itemData[itemId];
+
+            if (!data) {
+                cardElement.innerHTML = `<p class="text-center p-4">Racket not found.</p>`;
+                cardElement.className = 'bg-gray-500 text-white rounded-xl p-6 md:p-8 shadow-lg';
+                return;
+            }
+            
+            // Construct the inner HTML
+            cardElement.innerHTML = `
+                <div class="flex items-center space-x-4 mb-6 border-b border-white/30 pb-3">
+                    <h2 class="text-3xl font-bold tracking-tight">${data.title}</h2>
+                </div>            
+                <div class="space-y-4 pt-2">
+                    <!-- String Type -->
+                    <div class="flex justify-between items-center text-xl pb-2 border-b border-white/20">
+                        <span class="font-light opacity-80 w-1/3">Type:</span>
+                        <strong class="font-medium text-right w-2/3">${data.type}</strong>
+                    </div>
+                    <!-- Gauge -->
+                    <div class="flex justify-between items-center text-xl pb-2 border-b border-white/20">
+                        <span class="font-light opacity-80 w-1/3">Gauge:</span>
+                        <strong class="font-medium text-right w-2/3">${data.gauge}</strong>
+                    </div>
+                    <!-- Tension -->
+                    <div class="flex justify-between items-center text-xl pb-2 border-b border-white/20">
+                        <span class="font-light opacity-80 w-1/3">Tension:</span>
+                        <strong class="font-medium text-right w-2/3">${data.tension}</strong>
+                    </div>
+                    <!-- Date -->
+                    <div class="flex justify-between items-center text-xl pb-2">
+                        <span class="font-light opacity-80 w-1/3">Date:</span>
+                        <strong class="font-medium text-right w-2/3">${data.date}</strong>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Event Listener for the dropdown change
+        selectElement.addEventListener('change', (event) => {
+            updateCard(event.target.value);
+        });
+
+        // Initialize the card with the default selected value on page load
+        window.onload = () => {
+            updateCard(selectElement.value);
+        };
+    </script>
+</body>
+</html>

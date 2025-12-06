@@ -1,0 +1,552 @@
+[
+    {
+        "countryCode": "559",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "602",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "604",
+        "isEU_EEA": "No",
+        "Region": "Japan"
+    },
+    {
+        "countryCode": "608",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "613",
+        "isEU_EEA": "Yes",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "616",
+        "isEU_EEA": "Yes",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "618",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "619",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "620",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "621",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "624",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "624",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "627",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "629",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "631",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "638",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "644",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "649",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "652",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "655",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "659",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "661",
+        "isEU_EEA": "Yes",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "666",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "668",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "672",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "675",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "677",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "678",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "683",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "693",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "702",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "704",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "706",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "707",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "708",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "724",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "726",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "738",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "740",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "742",
+        "isEU_EEA": "No",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "744",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "749",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "754",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "756",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "758",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "759",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "760",
+        "isEU_EEA": "No",
+        "Region": "Japan"
+    },
+    {
+        "countryCode": "764",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "764",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "766",
+        "isEU_EEA": "Yes",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "767",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "778",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "778",
+        "isEU_EEA": "Yes",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "781",
+        "isEU_EEA": "Yes",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "784",
+        "isEU_EEA": "Yes",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "788",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "791",
+        "isEU_EEA": "Yes",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "796",
+        "isEU_EEA": "Yes",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "804",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "805",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "806",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "808",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "813",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "815",
+        "isEU_EEA": "Yes",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "818",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "820",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "821",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "822",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "823",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "826",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "832",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "834",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "838",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "840",
+        "isEU_EEA": "Yes",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "843",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "846",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "848",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "852",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "856",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "858",
+        "isEU_EEA": "Yes",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "862",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "864",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "865",
+        "isEU_EEA": "No",
+        "Region": "MEA"
+    },
+    {
+        "countryCode": "866",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "869",
+        "isEU_EEA": "Yes",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "871",
+        "isEU_EEA": "No",
+        "Region": "Latin America"
+    },
+    {
+        "countryCode": "872",
+        "isEU_EEA": "No",
+        "Region": "Japan"
+    },
+    {
+        "countryCode": "877",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "889",
+        "isEU_EEA": "Yes",
+        "Region": "Europe"
+    },
+    {
+        "countryCode": "897",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA2",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA3",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA4",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA6",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA7",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "CA8",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "Canada",
+        "isEU_EEA": "No",
+        "Region": "North America"
+    },
+    {
+        "countryCode": "China",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "CN1",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "CN2",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "CN3",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "CN4",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "CN5",
+        "isEU_EEA": "No",
+        "Region": "GCG"
+    },
+    {
+        "countryCode": "IN1",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "India",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "Japan",
+        "isEU_EEA": "No",
+        "Region": "Japan"
+    },
+    {
+        "countryCode": "PH1",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "PH2",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "PH3",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    },
+    {
+        "countryCode": "Philippines",
+        "isEU_EEA": "No",
+        "Region": "AP"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "f1c19bb058ef3998a2c38660f66d7a5b",
+        "_rev": "1-51150a34381692c51497028596ff9475",
+        "customId": "initiative_##_ba0fb83658586993f9bd99dc423ff0d3_##_2018-11-19",
+        "type": "initiative",
+        "labelKey": "ba0fb83658586993f9bd99dc423ff0d3",
+        "startDate": "2018-11-19T00:00:00.000Z",
+        "createdDate": "2019-03-21T23:39:59.785Z",
+        "lastUpdateDate": "2019-03-21T23:39:59.758Z",
+        "likes": [],
+        "loopback__model__name": "Pulse"
+    },
+    {
+        "_id": "861fe95d300662e13182e2b8366c1f53",
+        "_rev": "1-e9924e18efe167a93d53bdd5490f1847",
+        "customId": "initiative_##_6e866c0657589743f40942641ecc7aa7_##_2019-05-02",
+        "type": "initiative",
+        "labelKey": "6e866c0657589743f40942641ecc7aa7",
+        "startDate": "2019-05-02T00:00:00.000Z",
+        "createdDate": "2019-05-02T22:48:11.108Z",
+        "lastUpdateDate": "2019-05-02T22:48:11.096Z",
+        "likes": [],
+        "loopback__model__name": "Pulse"
+    }
+]

@@ -1,0 +1,161 @@
+Slack Channel Id: CR4RG67GU
+Slack Channel Name: i-ocp-guides
+
+Utz Bacher
+utz.bacher@de.ibm.com
+
+ADELINE SIANG ENG CHUN
+chunsea@sg.ibm.com
+
+ABDULGANI T KHATRI
+abkhatri@in.ibm.com
+
+Arjun S Babu
+arjsbabu@in.ibm.com
+
+Anurag Setia
+anurag.setia@in.ibm.com
+
+ANTONY I STEIN
+tonys@au1.ibm.com
+
+Areej Osama Issa Mohammad
+Areej.Essa1@ibm.com
+
+Christopher Osiegbu
+COSIEGBU@ng.ibm.com
+
+Claus Huempel
+claus.huempel@de.ibm.com
+
+Benjamin Oražem
+borazem@si.ibm.com
+
+BEN D. SWINNEY
+ben.swinney@au1.ibm.com
+
+Dzmitry Zhukouski
+Dmitry.Zhukovski@ibm.com
+
+Deepak C. Shetty
+deepakcshetty@in.ibm.com
+
+Dayanandhan Dhakshinamurthy
+dayanandhan@in.ibm.com
+
+David Campbell
+D.Campbell@uk.ibm.com
+
+DAVID LONG
+david.long@ie.ibm.com
+
+DAYAL SACHDEV
+d_sachdev@us.ibm.com
+
+KOK WAI ONG
+kokwai@my.ibm.com
+
+Homie G Davaloo
+homie@us.ibm.com
+
+HYEON SU PARK
+parkhsu@kr.ibm.com
+
+Gyula Székely
+gyula.szekely@hu.ibm.com
+
+FERNANDO EWALD
+fewald@us.ibm.com
+
+GILBERT THOMAS
+gilbert@sg.ibm.com
+
+Giovanni Rafael Vuolo
+Giovanni.Rafael.Vuolo1@ibm.com
+
+Faik Erdem Dalkılıç
+Faik.Erdem.Dalkilic@ibm.com
+
+MENG CHER NG
+ngmc@sg.ibm.com
+
+MATTHEW A ROBINSON
+matrobin@au1.ibm.com
+
+MANOJ N KUMAR
+kumarmn@us.ibm.com
+
+Luca Floris
+luca.floris@uk.ibm.com
+
+Marcelo Avalos Del Carpio
+Marcelo.Avalos@ibm.com
+
+Lorenzo Carleo
+Lorenzo.Carleo@ibm.com
+
+RAVIKUMAR SHANMUGAM
+raviksha@sg.ibm.com
+
+RICHARD M HOWE
+rhowe@au1.ibm.com
+
+Rani P Mohapatra
+ranimoha@in.ibm.com
+
+Priya Sahoo
+Priya.Ranjan.Sahoo@ibm.com
+
+Nolberto Jaimes Rojas
+njaimes@co.ibm.com
+
+NATARAJAN @ KUMAR N C KRISHNAN
+rajan@my.ibm.com
+
+Mrutyunjay Mohapatra
+Mrutyunjay.Mohapatra@ibm.com
+
+Munish Chahal
+muchahal@in.ibm.com
+
+Sushil U Nanavati
+nanavati@us.ibm.com
+
+Surjeet S Gill
+gillsurjeet@us.ibm.com
+
+Sampath K Swaminathan
+sampaths@us.ibm.com
+
+SAJID HOSSAIN
+Sajid.Hossain@in.ibm.com
+
+Sameh Emadeldin Elsaid Zedan
+Sameh.Zedan@ibm.com
+
+RUPAL A PANDYA
+rupal.pandya@in.ibm.com
+
+YOSHIHIRO KISHIDA
+YKISHIDA@jp.ibm.com
+
+Yigit Polat
+Yigit.Polat@ibm.com
+
+YEFEI SONG
+songy@sg.ibm.com
+
+William Grenache
+William.Grenache@ibm.com
+
+VIKASH GUPTA
+Vikash.Gupta@in.ibm.com
+
+Xavier Santolaria
+Xavier.Santolaria1@ibm.com
+
+Venkata V Gadepalli
+vgadepal@us.ibm.com
+
+VICTOR J CROSS
+viccross@au1.ibm.com

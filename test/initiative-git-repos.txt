@@ -1,0 +1,52 @@
+{title: { $regex: ".*An IBM POV on Web3.*", $options: "i"}}
+{slackURL: "https://ibmaot.slack.com/messages/C04K1KZBM34"}
+
+gitRepoType: Public - Private
+gitRepoURL: https://github.ibm.com/IBMAoT/i-mi-dashboard
+gitRepoId: 140989
+
+
+I-Cognitive | 127153 - can't match
+i-mi-dashboard | 140989 - can't match
+i-coding-transformation | 195805 - can't match
+i-code-aot-net | 217361 - can't match
+i-prevail2020-Poster-Sessions | 831118 - can't match
+i-digital-platform-build-for-amie-hbcu | 1102659 - can't match
+i-storage-security-synergies | 1178958 - can't match
+i-cp4d-deployment-patterns | 1284925 - can't match
+i-quantum-application-framework | 1408397 - can't match
+
+i-enterprise-cloud-native | 225800 - done
+i-openshift-guides | 765879 - done
+i-erubric | 766016 - done
+i-chaos-engineering-guidance | 814064 - done
+i-compose-with-design | 855856 - done
+i-SRE-PoV-LA | 938262 - done
+i-wellarchitected | 1067415 - done
+i-da-handbook | 1098489 - done
+i-mvp-acceleration-kit | 1099546 - done
+i-hc_data_placement | 1111549 - done
+i-ats-handbook | 1114644 - done
+i-cloudpaks-rh-positioning | 1117032 - done
+i-aot-procurement-architecture | 1175685 - done
+i-tdp-architect-kit | 1203777 - done
+i-cloudpaks-satellite-impl-guides | 1255156 - done
+i-satellite-solutions | 1259268 - done
+i-QML_Study_Group | 1294064 - done
+i-insurance-reference-architecture | 1336727 - done
+i-ibm-cloud-virtualization | 1341985 - done
+i-attack-vectors-cc | 1358694 - done
+i-aot-raising-professional-visibility | 1377326 - done
+i-5g-edge-architectures | 1395453 - done
+i-socialmedia-for-sustainability | 1403893 - done
+i-web3-pov | 1407651 - done
+i-developing-probabilistic-weather-forecasting-tooling | 1409690 - done
+
+i-supply-assurance-general | 1412690 - already created
+i-customer_care_game_changer | 1412860 - already created
+i-sre-maturity-assessment | 1413089 - already created
+i-5nm-pd-patent-workshop | 1413270 - already created
+i-edge_insights_on_ibm_z | 1416124 - already created
+i-ontology-template | 1416578 - already created
+i-openshift-for-ct | 1422079 - already created
+i-sap-on-vpc | 1425006 - already created

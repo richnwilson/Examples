@@ -1,0 +1,2572 @@
+[
+  {
+    "talentId": "083054744",
+    "email": "reshma.prathap@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000217659",
+    "email": "dcoronadof@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0002YZ744",
+    "email": "purnima.kalidindi@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000CNG744",
+    "email": "rharja26@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000OXL744",
+    "email": "pankaj.tiwary@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000TIY744",
+    "email": "deepadsh@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000TXF744",
+    "email": "Pooja.Nama@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "000YHU744",
+    "email": "Anuradha.Agarwal@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0011DI744",
+    "email": "Preethi.Balakrishnan@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "001389744",
+    "email": "mahgadda@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "001425618",
+    "email": "Annalisa.Cadonna@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0016M6744",
+    "email": "Rashmik.Kabiraj@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0017BM744",
+    "email": "Prageetika.Sharma@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "002199744",
+    "email": "shajsyed@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "002BY3744",
+    "email": "RISHI.Mathur@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 3,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 3,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 3,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "0040I1744",
+    "email": "Rishu.Tripathi@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "004528864",
+    "email": "EPHRAIM@za.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "004BX7744",
+    "email": "kavita.wadhwa@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "004E19744",
+    "email": "Vidushi.Mishra@ibm.com",
+    "data": [
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "004NRQ744",
+    "email": "Praveen.Prasad2@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "004RHR744",
+    "email": "Avneet.Kaur9@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "004ZTM744",
+    "email": "Chitra.Balakrishnan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0058MG744",
+    "email": "Madhavan.KidambiVaradan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "007140672",
+    "email": "zhouhdl@cn.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "007619631",
+    "email": "rafand@br.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "008060631",
+    "email": "aselim@br.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "010497749",
+    "email": "rully.amaludin@id.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "01253U744",
+    "email": "sghosh16@in.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 5,
+          "message": {
+            "participant": 2,
+            "leader": 3,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 5,
+          "message": {
+            "participant": 2,
+            "leader": 3,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 5,
+          "message": {
+            "participant": 2,
+            "leader": 3,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 5,
+          "message": {
+            "participant": 2,
+            "leader": 3,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 5,
+          "message": {
+            "participant": 2,
+            "leader": 3,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "012653678",
+    "email": "Ipsen@dk.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "02104L744",
+    "email": "bharsoni@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "024700756",
+    "email": "Zvi.Wexlstein@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "028291744",
+    "email": "deepak@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "03635N744",
+    "email": "madhsiva@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "038339866",
+    "email": "DEMPSEYJ@uk.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "03862O744",
+    "email": "rahul_khullar@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "04207G744",
+    "email": "sowjarao@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "04301J744",
+    "email": "dipagang@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "050893866",
+    "email": "LOPEZDSR@uk.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "05295S744",
+    "email": "kbottola@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "05536F744",
+    "email": "smita.raut@in.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "05888L744",
+    "email": "ashshekh@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "06019U744",
+    "email": "rangurup@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "061667781",
+    "email": "rbarran@mx1.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "061905724",
+    "email": "elke.kunde@de.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "06624O744",
+    "email": "arponnad@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "071098744",
+    "email": "digupta2@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "07243D744",
+    "email": "kishore.chakravarthula@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "084469649",
+    "email": "yisu@ca.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "08992G744",
+    "email": "sakandur@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "090940613",
+    "email": "genogazz@ar.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "095173631",
+    "email": "eduspina@br.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0A2860897",
+    "email": "anho@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0B6671649",
+    "email": "Aswathy.Sivadasan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0B9256649",
+    "email": "ian.hincks@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0D0391897",
+    "email": "shailaja.oruganti@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0G1121897",
+    "email": "ermiller@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0G2241649",
+    "email": "bryan.muscedere@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "0G6324649",
+    "email": "Patrick.Duncan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "103150638",
+    "email": "balys.morkevicius@lt.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "105172866",
+    "email": "RICHMOULT@uk.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "106013706",
+    "email": "Alexis.Boissonnat@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "106845724",
+    "email": "DBOCKH@de.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "114660866",
+    "email": "charlotte@uk.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "125442866",
+    "email": "Alicia.Harris@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "126515866",
+    "email": "Mark.Moloney@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "130008866",
+    "email": "karen.medhat@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 23,
+          "message": {
+            "participant": 13,
+            "leader": 6,
+            "notRated": 4,
+            "notInTotalLowRating": 4
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 25,
+          "message": {
+            "participant": 13,
+            "leader": 8,
+            "notRated": 4,
+            "notInTotalLowRating": 4
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 25,
+          "message": {
+            "participant": 13,
+            "leader": 8,
+            "notRated": 4,
+            "notInTotalLowRating": 4
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 26,
+          "message": {
+            "participant": 13,
+            "leader": 9,
+            "notRated": 4,
+            "notInTotalLowRating": 5
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 27,
+          "message": {
+            "participant": 13,
+            "leader": 9,
+            "notRated": 5,
+            "notInTotalLowRating": 5
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "135449724",
+    "email": "ELELUECK@de.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "159915724",
+    "email": "KATE@de.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "163275724",
+    "email": "RSchult@de.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 7,
+          "message": {
+            "participant": 7,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 7,
+          "message": {
+            "participant": 7,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 8,
+          "message": {
+            "participant": 7,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 8,
+          "message": {
+            "participant": 7,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 9,
+          "message": {
+            "participant": 7,
+            "leader": 0,
+            "notRated": 2,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "167282724",
+    "email": "Obed.Tetteh@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1A0236897",
+    "email": "senaye@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1A2519897",
+    "email": "mvlopez@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1G0681897",
+    "email": "simaoliu@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "1G2972897",
+    "email": "ajcaico@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "1J1126897",
+    "email": "krish.rekapalli@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 7,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 2,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "1J1920897",
+    "email": "Rohan.Arora@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1J2134897",
+    "email": "Astha.Jain@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1J6714897",
+    "email": "Chen.Wang1@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "1J7961897",
+    "email": "David.Roglieri@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "205258672",
+    "email": "weizy@cn.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "297288744",
+    "email": "ranjith.r@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2A6551897",
+    "email": "ggobehi@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "2A8709897",
+    "email": "lim@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2G9102897",
+    "email": "Sam.Hernandez@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2J1880897",
+    "email": "Anupama.Murthi@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "2J2478897",
+    "email": "Chitra.S.Agastya@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2J2902897",
+    "email": "Kayla.Lee@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "2J2917897",
+    "email": "Megan.Drake@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2J4171897",
+    "email": "Taylor.Schwarz@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2J6267897",
+    "email": "aakanksha.joshi@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 3,
+          "message": {
+            "participant": 3,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 3,
+          "message": {
+            "participant": 3,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 3,
+          "message": {
+            "participant": 3,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 3,
+          "message": {
+            "participant": 3,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 3,
+          "message": {
+            "participant": 3,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "2J7654897",
+    "email": "William.Mellon@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "2J8850897",
+    "email": "RUILONG.XIE@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "307934760",
+    "email": "FIRENZE@jp.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "310036706",
+    "email": "xavier.wuelche-ISC_France@fr.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "324053760",
+    "email": "KKANZAKI@jp.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "332775760",
+    "email": "KSASAKI@jp.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "349316760",
+    "email": "E34931@jp.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "365510760",
+    "email": "E36551@jp.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "366720616",
+    "email": "shashank.kharche@au1.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "372289616",
+    "email": "pjessup@au1.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3D1341897",
+    "email": "tcorv4c@us.ibm.com",
+    "data": [
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "3G1801897",
+    "email": "kapanipa@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3G8213897",
+    "email": "bkaraca@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J0362897",
+    "email": "William.Marty@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J0603897",
+    "email": "naynjain@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J1019897",
+    "email": "Abby.Wise@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J1346897",
+    "email": "ashutosh.chauhan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J1675897",
+    "email": "femi@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J2333897",
+    "email": "Ray.Chu@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "3J2933897",
+    "email": "Sanchari.Sen@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "432583760",
+    "email": "Daisuke.Matsuoka2@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "4A4019897",
+    "email": "cvogan@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "4G0501897",
+    "email": "archana.ramakrishnan@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "4G5723897",
+    "email": "tinakoteel@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "4G6504897",
+    "email": "iseshad@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "4J3373897",
+    "email": "Jillian.Villany@ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "4J8094897",
+    "email": "canos@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "4J8128897",
+    "email": "Manjari.Gupta@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "541751744",
+    "email": "ribalaji@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "557918760",
+    "email": "IGNACIO@jp.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "5A7749897",
+    "email": "lisettec@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "5A9235897",
+    "email": "ingeh@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "5D9402897",
+    "email": "mrizzol@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "5G0242897",
+    "email": "nbsinger@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "5G0943897",
+    "email": "sghegde@us.ibm.com",
+    "data": [
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "5G2285897",
+    "email": "Ronald.Dartey1@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "5G9043897",
+    "email": "grahamd@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "5J3015897",
+    "email": "diego.alcantara@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "6A8816897",
+    "email": "Nichole.Janky1@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "6J7097897",
+    "email": "Jubu@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "757089897",
+    "email": "rcarbone@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7A9270897",
+    "email": "blagic@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7D1106897",
+    "email": "padusum@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7D1482897",
+    "email": "deabuels@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7D4168897",
+    "email": "usiddiqu@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 5,
+          "message": {
+            "participant": 4,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 5,
+          "message": {
+            "participant": 4,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 6,
+          "message": {
+            "participant": 5,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "7G5363848",
+    "email": "Hadjer.Benmeziane@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7J1124897",
+    "email": "rishi.k.gupta@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7J2844897",
+    "email": "aleem.kazmi@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "7J3701897",
+    "email": "Deepak.Tatti.Gopal@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "815623897",
+    "email": "dholt@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "860675897",
+    "email": "jfcorb@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "888467897",
+    "email": "martinep@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "893938897",
+    "email": "nrbuss@us.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "8J7937897",
+    "email": "Aditi.Pandit@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "912190744",
+    "email": "amitmangalvedkar@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "914938897",
+    "email": "shadow@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "916979744",
+    "email": "sbalasub@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "917278744",
+    "email": "bsesha@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "923197897",
+    "email": "cdewan@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "967005897",
+    "email": "jhislop@us.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 2,
+          "message": {
+            "participant": 2,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "990542744",
+    "email": "syellare@in.ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "9J5249897",
+    "email": "Xuelian.Zhang@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "9J5486897",
+    "email": "Lara.Neich@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "9J5726897",
+    "email": "Ahmed.Fayed@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "9J6106897",
+    "email": "Hongwei.Jia@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "H40837655",
+    "email": "pablo.sandoval@cl.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 2
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 2
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 2
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 2
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 1,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "M08145784",
+    "email": "FADOUAEL@ma.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 0,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "O28523826",
+    "email": "laurentiu.ghergu@ro.ibm.com",
+    "data": [
+      {
+        "2025-01": {
+          "total": 8,
+          "message": {
+            "participant": 7,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-02": {
+          "total": 7,
+          "message": {
+            "participant": 6,
+            "leader": 1,
+            "notRated": 0,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-03": {
+          "total": 8,
+          "message": {
+            "participant": 6,
+            "leader": 1,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-04": {
+          "total": 8,
+          "message": {
+            "participant": 6,
+            "leader": 1,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      },
+      {
+        "2025-05": {
+          "total": 8,
+          "message": {
+            "participant": 6,
+            "leader": 1,
+            "notRated": 1,
+            "notInTotalLowRating": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "P04947820",
+    "email": "lukasz.strak@pl.ibm.com",
+    "data": [
+      {
+        "2025-05": {
+          "total": 1,
+          "message": {
+            "participant": 0,
+            "leader": 0,
+            "notRated": 1,
+            "notInTotalLowRating": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "talentId": "ZZ01T7766",
+    "email": "Hunhoe.Gu@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "ZZ02KU644",
+    "email": "Albena.Koprinarova@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "ZZ0390834",
+    "email": "Yuan.Yi@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "ZZ03ET740",
+    "email": "Jordana.Koves@ibm.com",
+    "data": []
+  },
+  {
+    "talentId": "ZZ0BPW820",
+    "email": "Maryia.Rudziankova@ibm.com",
+    "data": []
+  }
+]

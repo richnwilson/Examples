@@ -1,0 +1,269 @@
+{
+  "version": 104,
+  "schema_version": 1,
+  "doc": {
+    "type": "doc",
+    "attrs": {
+      "table_of_contents": { "enabled": false, "allowedLevels": [1, 2, 3] }
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://pages.github.ibm.com/IBMAoT/i-satellite-solutions/"
+                }
+              },
+              { "type": "author_id", "attrs": { "authorId": "245157763" } }
+            ],
+            "text": "https://pages.github.ibm.com/IBMAoT/i-satellite-solutions/"
+          }
+        ]
+      },
+      { "type": "paragraph" },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "245157763" } }
+            ],
+            "text": "Team:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": { "level": 2, "guid": "ldyqavks" },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "245157763" } }
+            ],
+            "text": "Assignment Grid"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "Who"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "Consoidated"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "Feedback / Notes"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "What"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "me"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "Y"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "Testing"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://github.ibm.com/IBMAoT/i-satellite-solutions/blob/main/README.md"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "245157763" }
+                          }
+                        ],
+                        "text": "https://github.ibm.com/IBMAoT/i-satellite-solutions/blob/main/README.md"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      { "type": "paragraph" }
+    ]
+  },
+  "savepoint_metadata": {
+    "savepointFileId": "1137186139940",
+    "savepointsInfo": {
+      "102": {
+        "timestamp": 1676045700130,
+        "type": "session",
+        "authorsSinceLastSavepoint": ["245157763"]
+      },
+      "103": {
+        "timestamp": 1676936311149,
+        "type": "session",
+        "authorsSinceLastSavepoint": ["245157763"]
+      }
+    },
+    "shouldCreateSavepointBeforeApplyingNextVersion": false,
+    "authorsSinceLastSavepoint": {},
+    "allAuthorNames": { "245157763": "Richard Wilson" }
+  },
+  "last_edit_timestamp": 1677001131557
+}

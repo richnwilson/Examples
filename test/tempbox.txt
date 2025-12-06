@@ -1,0 +1,186 @@
+{
+  "version": 101,
+  "schema_version": 1,
+  "doc": {
+    "type": "doc",
+    "attrs": {
+      "table_of_contents": { "enabled": true, "allowedLevels": [1, 2, 3] }
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "##gitURL##"
+                }
+              },
+              { "type": "author_id", "attrs": { "authorId": "2154200602" } }
+            ],
+            "text": "##gitURL##"
+          }
+        ]
+      },
+      { "type": "paragraph" },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "2154200602" } }
+            ],
+            "text": "Team:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": { "level": 2, "guid": "ldyqavks" },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "245157763" } }
+            ],
+            "text": "Assignment Grid"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Who"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Considated"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Feedback / Notes"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "What"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          ##urls##
+          ,
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [{ "type": "paragraph" }]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [{ "type": "paragraph" }]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [{ "type": "paragraph" }]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [{ "type": "paragraph" }]
+              }
+            ]
+          }
+        ]
+      },
+      { "type": "paragraph" }
+    ]
+  },
+  "savepoint_metadata": {
+    "savepointFileId": null,
+    "savepointsInfo": {},
+    "shouldCreateSavepointBeforeApplyingNextVersion": false,
+    "authorsSinceLastSavepoint": { "2154200602": true },
+    "allAuthorNames": { "2154200602": "IBM Academy of Technology" }
+  },
+  "last_edit_timestamp": ##timestamp##
+}

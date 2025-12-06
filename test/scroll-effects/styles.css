@@ -1,0 +1,83 @@
+/* Setup */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    margin-top: 60px; /* Adjusted for fixed header */
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+}
+
+/* Scroll animations */
+section {
+    transition: transform 0.5s ease;
+}
+
+section.active {
+    transform: scale(1.1);
+}
+
+/* Easing functions */
+section {
+    transition: transform 0.5s cubic-bezier(0.4, 2.1, 0.2, 1);
+}
+
+/* Parallax effects */
+section {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#section1 {
+    background-image: url('section1-bg.jpg');
+}
+#section2 {
+    background-image: url('section2-bg.jpg');
+}
+#section3 {
+    background-image: url('section3-bg.jpg');
+}
+
+/* Scroll triggered Animations */
+section {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+section.in-view {
+    opacity: 1;
+}

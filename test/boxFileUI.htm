@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html,
+        body,
+        .container {
+            width: 100px;
+            height: 50px;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <link
+    rel="stylesheet"
+    href="https://cdn01.boxcdn.net/platform/elements/11.0.2/en-US/picker.css"
+    />
+</head>
+<body>
+    <div class="container" style="height:600px"></div>
+    <!-- Latest version of the picker js for your locale -->
+    <script src="https://cdn01.boxcdn.net/platform/elements/11.0.2/en-US/picker.no.react.js"></script>
+    <script>
+      var folderId = "43529794166";
+      var accessToken = "L3WsXbkMMWiohIPy7wD0Qycme0wHafLe";
+      var filePicker = new Box.FilePicker();
+      filePicker.show(folderId, accessToken, {
+        container: ".container",
+        maxSelectable: 1,
+        canUpload: false,
+        size: "small",
+        logoUrl: 'https://w3.ibm.com/ibm/academy/images/aotlogo_100x100.png?raw=true'
+      });
+      filePicker.addListener('choose', function(items) {
+        console.log(JSON.stringify(items, null, 2));
+      });      
+    </script>
+</body>
+</html>

@@ -1,0 +1,339 @@
+{
+  "_id": {
+    "$oid": "63b58afb80ecf70017503977"
+  },
+  "title": "US Chamber of Commerce: AI Ethics Standards for the Talent marketplace  ",
+  "status": "Request for publication",
+  "type": "Academy",
+  "leader": "Phaedra Boinodiris",
+  "leaderInternet": "pboinodi@us.ibm.com",
+  "sponsor": [
+    "Sujatha Perepa"
+  ],
+  "sponsorInternet": [
+    "perepa@us.ibm.com"
+  ],
+  "ERBReviewer": [
+    "Rekha Sreedharan",
+    "Kushal Patel",
+    "Irving Duran",
+    "Michael Burgess"
+  ],
+  "ERBReviewerInternet": [
+    "rmadakka@in.ibm.com",
+    "kushpate@in.ibm.com",
+    "iaduran@us.ibm.com",
+    "michburg@uk.ibm.com"
+  ],
+  "ERBReviewerRating": [
+    4,
+    4,
+    4,
+    4
+  ],
+  "ERBReviewerType": [
+    "General",
+    "Technical",
+    "General",
+    "General"
+  ],
+  "ERBReviewerStatus": [
+    "Added - Feb 09, 2024",
+    "Added - Feb 09, 2024",
+    "Added - Feb 09, 2024",
+    "Added - Feb 09, 2024"
+  ],
+  "executiveChampion": [
+    "YELENA VAYNBERG",
+    "MANISH GOYAL"
+  ],
+  "executiveChampionInternet": [
+    "yvaynbe@us.ibm.com",
+    "manish.goyal@us.ibm.com"
+  ],
+  "executiveChampionReason": "Both Yelena and Manish will help ensure that the jointly developed publication on our POV gets the maximum publicity with clients and with policy makers.",
+  "associatedBusinessUnit": "",
+  "associatedBusinessUnitOther": "",
+  "focusArea": "Data and AI/Trusted Systems",
+  "affiliateName": [],
+  "startDate": {
+    "$date": "2023-01-25T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "description": "IBM's AOT will work in collaboration with the US Chamber of Commerce and other partners to publish AI Ethics Standards that can be used in programs that are designed to create more equitable and effective learning and career pathways. ",
+  "problemStatement": "On January 25th, the US Chamber of Commerce will launch an AI Advisory board focused on recommending AI processes and standards for the talent marketplace to create more equitable and effective learning and career pathways. IBM has been invited to join this program along with other companies like Microsoft. There are TWO workstreams:\r\n1)  Offer AI governance recommendations for AI that will be used to parse PDF transcripts into unstructured data that can be used to populate digital credentials.\r\n2) Offer AI governance recommendations for AI that will be in the form of agents that will connect to people's digital wallets and facilitate matching of skills to open roles.",
+  "outcome": "The joint publishing of a POV and assets on AI Ethics for this specific talent marketplace use case offers a tremendous amount of credibility and thought leadership to IBM. Not only can we offer our AOT members applied learning in AI Ethics but also working with really important external partners in a truly multi-disciplinary environment. Additionally, we have been assured that we can publicly announce our participation and role in this initiative, write about it and even speak about it at conferences like THINK.  Lastly, after we have delivered our joint assets, we expect that there will be US Chamber members that will need assessment and training help to make sure that they are provisioned to be compliant. We will be in the perfect position to offer our paid services to these clients.\r\n\r\nKickoff meeting with external team is Jan 25:\r\nT3 Innovation Network: Experience You Launch Event\r\nDate & Time\tJan 25, 2023 02:00 PM Eastern Time (US and Canada)\t\r\nMeeting ID\t858 5193 5579\t\r\nJoin Meeting \r\n\t\r\nIf the button above does not work, paste this into your browser: \t\t\r\nhttps://us06web.zoom.us/w/85851935579?tk=zRJdYDEMvqI9YqUtvF_jD5p7EmBUoUR9p3KUBlSYuwY.DQMAAAAT_SyTWxY2b0dYNDRHQlFPT19hRzRZLWNlUmN3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA \r\n\t\r\nTo keep this meeting secure, do not share this link publicly. \t\t\r\n",
+  "finalOutcome": "The US Chamber of Commerce is interested in using conversational AI (this could include Large Language Models otherwise known as LLMs, a form of Generative AI) that use unstructured data offered by end users to match people to open roles for employment.  IBM’s Open Innovation Community ran an initiative in collaboration with the Chamber to assess the risks of using such an AI model.  \r\nThe Subjects, or end-users of these AI agents represent a wide variety of truly vulnerable communities. With the help of the organization Participate, a member of the US Chamber of Commerce’s ecosystem of partners, the team identified four personas: Caregiver, Uber Driver, Soldier and Incarcerated Person. The volunteer team from IBM who ran the exercises were truly global, diverse and multi-disciplinary with a wide spectrum of lived world experiences. This was critical in order to understand how especially vulnerable groups might be inadvertently harmed.  ",
+  "coleaders": [
+    "KIM HOLMES",
+    "MILENA PRIBIC"
+  ],
+  "coleadersInternet": [
+    "holmesk@us.ibm.com",
+    "mpribic@us.ibm.com"
+  ],
+  "participants": [
+    "Tara Chavda",
+    "Kimberly Morick",
+    "JANE WU",
+    "Dawn Ahukanna",
+    "Heather Domin",
+    "Georg Olowson",
+    "Saishruthi Swaminathan",
+    "Sujatha Perepa",
+    "Rogerio Abreu De Paula",
+    "Raya Horesh",
+    "Alex Nwoke",
+    "Allison Sin",
+    "Chan Naseeb",
+    "Konstantin Shabalin",
+    "Lakshmana-Narasimhan Ekambaram",
+    "Madhusmita P Patil",
+    "Tanut Karnwai",
+    "Vijay Bhargav Reddy",
+    "Hisham Ghanem",
+    "Yolanda Vazquez Jara",
+    "Abhay Choudhary",
+    "Arjun Mitra",
+    "Bharatesh .",
+    "Deqwain Hart",
+    "Filippo Utro",
+    "Geetha Adinarayan",
+    "Jananee Subburaj",
+    "SHRAVAN KUMAR RAGHU",
+    "Nagalakshmi Satyanarayanan"
+  ],
+  "participantsInternet": [
+    "Tara.Chavda@ibm.com",
+    "kimberly.e.morick@us.ibm.com",
+    "jwu@us.ibm.com",
+    "dawn.n.ahukanna@ibm.com",
+    "hesill@us.ibm.com",
+    "georg.olowson@ibm.com",
+    "saishruthi.tn@ibm.com",
+    "perepa@us.ibm.com",
+    "ropaula@br.ibm.com",
+    "rhoresh@us.ibm.com",
+    "alex.nwoke@ibm.com",
+    "allison.sin@ibm.com",
+    "chan.naseeb@ibm.com",
+    "kshabalin@ibm.com",
+    "ekambara@us.ibm.com",
+    "madhusmita.patil@in.ibm.com",
+    "tanutk@th.ibm.com",
+    "vbreddy@ibm.com",
+    "ghanem@us.ibm.com",
+    "yolandajara@es.ibm.com",
+    "achaudha@ie.ibm.com",
+    "arjun.mitra@ibm.com",
+    "bharateshd@ibm.com",
+    "dj.hart@ibm.com",
+    "futro@us.ibm.com",
+    "ageetha@in.ibm.com",
+    "jsubbur@us.ibm.com",
+    "sraghu@us.ibm.com",
+    "nagalakshmi.s@ibm.com"
+  ],
+  "participantsRating": [
+    5,
+    1,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    3,
+    3,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    5
+  ],
+  "isAffiliateFocalApproved": false,
+  "blogURL": "",
+  "slackURL": "https://ibmaot.slack.com/messages/C04L4T4M4G0",
+  "shouldArchiveSlack": true,
+  "boxURL": "https://ibm.ent.box.com/folder/188882139049",
+  "publicBoxURL": "",
+  "publicBoxFolderId": "",
+  "boxURL_creating": false,
+  "publicBoxURL_creating": false,
+  "otherCollaborationURL": "",
+  "mainCollaborationURL": "",
+  "draftDate": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "submittedDate": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "approvedDate": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "approvedBy": "",
+  "closeValue": "This use case helped  IBM's team of volunteers recognize the wide breadth of risks that vulnerable communities can face from AI models, helped the US Chamber of commerce learn how to use design thinking to really empathize with a wider variety of personas and helped structure a framework for how to shape their big July hackathon.",
+  "closedBy": "yvaynbe@us.ibm.com",
+  "closedByName": "Yelena Vaynberg",
+  "requestPublicationDate": {
+    "$date": "2023-06-29T00:00:00.000Z"
+  },
+  "reportURL": [],
+  "finalPublicationBoxURL": "",
+  "reportNo": "ARB-1393",
+  "SEOTitle": "US Chamber of Commerce: AI Ethics Standards for the Talent marketplace",
+  "SEODescription": "IBM's AOT will work in collaboration with the US Chamber of Commerce and other partners to publish AI Ethics Standards that can be used in programs that are designed to create more equitable and effective learning and career pathways.",
+  "SEOKeywords": "AoT, Academy of Technology, Report, Publication, ARB-1393, Academy, Data and AI/Trusted Systems",
+  "contributors": [
+    "PHAEDRA BOINODIRIS",
+    "KIM HOLMES",
+    "Tara Chavda",
+    "Nagalakshmi Satyanarayanan"
+  ],
+  "contributorsInternet": [
+    "pboinodi@us.ibm.com",
+    "holmesk@us.ibm.com",
+    "Tara.Chavda@ibm.com",
+    "nagalakshmi.s@ibm.com"
+  ],
+  "publicationConfidential": "No",
+  "publicationCategory": "",
+  "publicationDescription": "It was crafted as a report that would be publicly facing.",
+  "publicationSourceFilesId": [
+    "1249087296299",
+    "1244475617491",
+    "1245090732069"
+  ],
+  "publicationSourceFilesName": [
+    "Blog.boxnote",
+    "IBM_DOC_FMpresentation-pkb.pptx",
+    "IBM_DOC_FMreport.docx"
+  ],
+  "publicationSourceFilesType": [
+    "file",
+    "file",
+    "file"
+  ],
+  "lastUpdateDate": {
+    "$date": "2024-02-09T18:41:06.966Z"
+  },
+  "rating": 2,
+  "ratingComments": "Testing",
+  "ecReRate": false,
+  "ecRatings": [
+    {
+      "date": "Aug 3, 2023",
+      "eC": "MANISH GOYAL",
+      "rating": "Highly Satisfied",
+      "comment": "",
+      "source": "Email",
+      "_userId": "manish.goyal@us.ibm.com"
+    },
+    {
+      "date": "Aug 3, 2023",
+      "eC": "MANISH GOYAL",
+      "rating": "Highly Satisfied",
+      "comment": "Keep up the great work in driving IBM thought leadership in a critical area of Generative AI adoption.",
+      "source": "Email",
+      "_userId": "manish.goyal@us.ibm.com"
+    },
+    {
+      "date": "Aug 4, 2023",
+      "eC": "YELENA VAYNBERG",
+      "rating": "Satisfactory",
+      "comment": "Great IBM leaderships at the US Chamber T3 event!",
+      "source": "Email",
+      "_userId": "yvaynbe@us.ibm.com"
+    },
+    {
+      "date": "Aug 4, 2023",
+      "eC": "YELENA VAYNBERG",
+      "rating": "Satisfactory",
+      "comment": "",
+      "source": "Email",
+      "_userId": "yvaynbe@us.ibm.com"
+    },
+    {
+      "date": "Feb 9, 2024",
+      "eC": "YELENA VAYNBERG (rating provided to Squad)",
+      "rating": "Satisfactory",
+      "comment": "Testing",
+      "source": "Email",
+      "_userId": "admin"
+    }
+  ],
+  "openCallsForParticipation": 0,
+  "adminComments": "RW: Testing",
+  "excludeInCI": false,
+  "lastChangedBy": [
+    "Kami.Haynes@ibm.com - 2023-08-09T19:23:53.622Z",
+    "Kami.Haynes@ibm.com - 2024-01-05T16:45:06.763Z",
+    "rwilson@us.ibm.com - 2024-02-09T18:21:17.539Z",
+    "rwilson@us.ibm.com - 2024-02-09T18:32:09.855Z",
+    "rwilson@us.ibm.com - 2024-02-09T18:41:07.075Z"
+  ],
+  "lastChangedByNonAdmin": [
+    "yvaynbe@us.ibm.com - 2023-08-04T20:33:53.082Z",
+    "yvaynbe@us.ibm.com - 2023-08-04T20:34:26.225Z",
+    "yvaynbe@us.ibm.com - 2023-08-04T20:34:27.311Z",
+    "rwilson@us.ibm.com - 2024-02-09T18:32:09.855Z",
+    "rwilson@us.ibm.com - 2024-02-09T18:41:07.075Z"
+  ],
+  "systemLogs": [
+    "User 'pboinodi@us.ibm.com' added Executive Champion YELENA VAYNBERG (yvaynbe@us.ibm.com) - Wed Jan 04 2023 09:22:21 GMT-0500 (GMT-05:00)",
+    "User 'pboinodi@us.ibm.com' added Executive Champion MANISH GOYAL (manish.goyal@us.ibm.com) - Wed Jan 04 2023 09:22:48 GMT-0500 (GMT-05:00)",
+    "System created a private box folder - https://ibm.ent.box.com/folder/188882139049 - Wed Jan 04 2023 15:56:28 GMT-0500 (GMT-05:00)",
+    "System removed participant Sophia Smith (sophia.smith@ibm.com) as they left IBM - Fri Apr 07 2023 02:30:08 GMT-0500 (GMT-05:00)",
+    "System removed participant William G Dusch (bdusch@ibm.com) as they left IBM - Fri Apr 21 2023 02:30:07 GMT-0500 (GMT-05:00)",
+    "System removed participant Andrea Monserrat Arredondo Rodriguez (andrea.monserrat@ibm.com) as they left IBM - Thu May 04 2023 08:29:29 GMT-0500 (GMT-05:00)",
+    "System removed participant Tom Hall (tom.hall@ibm.com) as they left IBM - Fri Jun 23 2023 02:16:01 GMT-0500 (GMT-05:00)"
+  ],
+  "lastBPCheckDate": {
+    "$date": "2023-06-29T14:50:26.862Z"
+  },
+  "shouldShowcase": true,
+  "showcaseApproved": false,
+  "showcaseComments": "",
+  "redHatInterest": false,
+  "patentInterest": false,
+  "possibleRFP": true,
+  "possibleRFPYYYYMM": "2023-06",
+  "possibleRFPUrl": "https://github.ibm.com/api/v3/repos/IBMAoT/AoT-Asset-Review-Board/issues/483",
+  "possibleRFPAudit": [
+    "> - (Jun 29, 2023) **Status** change from 'Open' to 'Request for publication'",
+    "> - (Aug 04, 2023) **Rating** changed from 'Highly Satisfied' to 'Satisfactory'",
+    "> - (Aug 09, 2023) **All Current ARB Reviewers** - Rekha Sreedharan | rmadakka@in.ibm.com, Kushal Patel | kushpate@in.ibm.com, Irving Duran | iaduran@us.ibm.com",
+    "> - (Jan 05, 2024) **All Current ARB Reviewers** - Rekha Sreedharan | rmadakka@in.ibm.com, Kushal Patel | kushpate@in.ibm.com, Irving Duran | iaduran@us.ibm.com, Michael Burgess | michburg@uk.ibm.com"
+  ],
+  "allowUnlimitedParticipants": "",
+  "isSprclose": "Yes",
+  "pubreq": "Yes",
+  "ERBReviewerCompletedTask": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "ERBReviewerSendEmail": [
+    false,
+    false,
+    false,
+    false
+  ]
+}

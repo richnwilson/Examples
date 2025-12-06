@@ -1,0 +1,1248 @@
+{
+  "version": 101,
+  "schema_version": 1,
+  "doc": {
+    "type": "doc",
+    "attrs": {
+      "table_of_contents": { "enabled": true, "allowedLevels": [1, 2, 3] }
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://github.ibm.com/IBMAoT/i-tdp-architect-kit"
+                }
+              },
+              { "type": "author_id", "attrs": { "authorId": "2154200602" } }
+            ],
+            "text": "https://github.ibm.com/IBMAoT/i-tdp-architect-kit"
+          }
+        ]
+      },
+      { "type": "paragraph" },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "2154200602" } }
+            ],
+            "text": "Team:"
+          }
+        ]
+      },
+      { "type": "paragraph" },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              { "type": "author_id", "attrs": { "authorId": "2154200602" } }
+            ],
+            "text": "AssignmentGrid"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Who"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Consolidated"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "Feedback/Notes"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "What"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/about/authors/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/about/authors/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/about/how-to-contribute/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/about/how-to-contribute/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/accelerators/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/accelerators/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/best-practices-and-use-cases/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/best-practices-and-use-cases/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/differentiation-and-value-prop/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/differentiation-and-value-prop/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/enablement-collaboration/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/enablement-collaboration/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/integration/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/integration/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/ra-and-designs/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/ra-and-designs/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "table_row",
+            "content": [
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": null },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [240] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "attrs": { "colspan": 1, "rowspan": 1, "colwidth": [140] },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/roadmap/"
+                            }
+                          },
+                          {
+                            "type": "font_size",
+                            "attrs": { "size": "0.9375em" }
+                          },
+                          {
+                            "type": "author_id",
+                            "attrs": { "authorId": "2154200602" }
+                          }
+                        ],
+                        "text": "https://pages.github.ibm.com/IBMAoT/i-tdp-architect-kit/security/roadmap/"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      { "type": "paragraph" }
+    ]
+  },
+  "savepoint_metadata": {
+    "savepointFileId": null,
+    "savepointsInfo": {},
+    "shouldCreateSavepointBeforeApplyingNextVersion": false,
+    "authorsSinceLastSavepoint": { "2154200602": true },
+    "allAuthorNames": { "2154200602": "IBM Academy of Technology" }
+  },
+  "last_edit_timestamp": 1677009422555
+}
